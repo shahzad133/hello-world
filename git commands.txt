@@ -1,5 +1,6 @@
-git clone urlOfRepository
+this is a gitHelp file
 
+git clone urlOfRepository
 
 
 git status
